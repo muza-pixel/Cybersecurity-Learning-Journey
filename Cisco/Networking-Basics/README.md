@@ -1,1 +1,1 @@
-Completed activity and praticals will be added here, one subfolder per lab.
+Completed Activity, Practices, Labs will be added
