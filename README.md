@@ -2,176 +2,40 @@
 
 > **Learn → Practice → Document → Improve**
 
-Welcome to my cybersecurity learning journey.
+This repository is a living record of my cybersecurity development — course progress, hands-on labs, and activity writeups, organized by source so anyone can follow exactly where I am and how I got here.
 
-This repository is a **living portfolio of my development in cybersecurity** — documenting the concepts I learn, hands-on labs I complete, security investigations I work through, and practical skills I develop along the way.
-
-I'm currently building my foundation through the **Google Cybersecurity Certificate** and **LabEx**, with a focus on networking, systems, security analysis, incident response, and automation.
+I'm a Mathematics with Computer Science student at the University of Ghana, building a foundation in cybersecurity through structured courses (Google, Cisco) and hands-on practice (LabEx, TryHackMe).
 
 ---
 
-## 🎯 Current Focus
+## 📊 Progress at a Glance
 
-| Area                               | Status         |
-| ---------------------------------- | -------------- |
-| 🔐 Cybersecurity Fundamentals      | 🟢 Learning    |
-| 🌐 Network & Network Security      | 🟢 Learning    |
-| 🐧 Linux & SQL                     | 🟡 In Progress |
-| 🕵️ Threats & Vulnerabilities      | 🟡 In Progress |
-| 🚨 Detection & Incident Response   | 🟡 In Progress |
-| 🐍 Security Automation with Python | 🔵 Upcoming    |
-| 🧪 Hands-on Labs                   | 🟢 Active      |
-
----
-
-# 📚 Learning Path
-
-## Google Cybersecurity Certificate
-
-My structured cybersecurity learning path.
-
-### 01 — Foundation of Cybersecurity
-
-> Security fundamentals, cybersecurity concepts, threats, and the role of security professionals.
-
-### 02 — Manage Security Risks
-
-> Security frameworks, risk management, controls, compliance, and security planning.
-
-### 03 — Networks & Network Security
-
-> TCP/IP, network protocols, network attacks, network hardening, packet analysis, and security monitoring.
-
-**Current focus:** 🌐 Network Security
-
-### 04 — Linux & SQL
-
-> Linux fundamentals, command-line operations, SQL, and security applications.
-
-### 05 — Assets, Threats & Vulnerabilities
-
-> Asset management, threats, vulnerabilities, risk, and vulnerability assessment.
-
-### 06 — Detection & Response
-
-> Security monitoring, incident detection, investigation, and response.
-
-### 07 — Automate Cybersecurity Tasks with Python
-
-> Using Python to automate repetitive security tasks and improve security workflows.
-
-### 08 — Prepare for Cybersecurity Jobs
-
-> Career preparation, cybersecurity roles, portfolios, and professional development.
+| Source | Section | Status |
+|---|---|---|
+| Google Cybersecurity Certificate | 01 — Foundations of Cybersecurity | ✅ Complete |
+| Google Cybersecurity Certificate | 02 — Manage Security Risks | ✅ Complete |
+| Google Cybersecurity Certificate | 03 — Networks and Network Security | ✅ Complete |
+| Google Cybersecurity Certificate | 04 — Linux and SQL | 🟡 In Progress |
+| Google Cybersecurity Certificate | 05 — Assets, Threats & Vulnerabilities | 🔵 Upcoming |
+| Google Cybersecurity Certificate | 06 — Detection & Response | 🔵 Upcoming |
+| Google Cybersecurity Certificate | 07 — Automate Tasks with Python | 🔵 Upcoming |
+| Google Cybersecurity Certificate | 08 — Prepare for Cybersecurity Jobs | 🔵 Upcoming |
+| Cisco | Networking Basics | 🟡 In Progress |
+| LabEx | Hands-on labs | 🔵 Labs added as completed |
+| TryHackMe | Practical rooms | 🔵 Rooms added as completed |
 
 ---
 
-# 🧪 Hands-on Practice
+## 📂 How This Repo Is Organized
 
-## LabEx
+Cybersecurity-Learning-Journey/ │ ├── Google-Cybersecurity-Certificate/ │ ├── 01-Foundations-of-Cybersecurity/ │ ├── 02-Manage-Security-Risks/ │ ├── 03-Networks-and-Network-Security/ │ └── 04-Linux-and-SQL/ │ ├── Cisco-Networking-Basics/ │ ├── LabEx/ │ └── TryHackMe/
 
-Practical labs used to strengthen my technical understanding through hands-on exercises.
-
-> **Learn the concept → work in the environment → troubleshoot → document the lesson.**
-
-More labs will be added as I progress.
-
----
-
-# 🔎 Selected Work
-
-Some of the practical work currently documented in this repository:
-
-### 🌐 Network Hardening
-
-Practical exercises focused on understanding and applying network hardening techniques.
-
-### 🖥️ OS Hardening
-
-Hands-on work exploring operating-system hardening and security controls.
-
-### 🚨 Incident Response
-
-Practical incident-response exercises using security frameworks and investigation techniques.
-
-### 📡 Network Traffic Analysis
-
-Working with network traffic and learning to interpret packet information using tools such as **tcpdump** and **Wireshark**.
-
----
-
-# 🧰 Tools & Technologies
-
-### Security
-
-`Cybersecurity` `Network Security` `Incident Response` `Risk Management`
-
-### Networking
-
-`TCP/IP` `OSI Model` `Packet Analysis` `Network Hardening` `tcpdump` `Wireshark`
-
-### Systems
-
-`Linux` `Windows`
-
-### Programming
-
-`Python` `JavaScript`
-
-### Workflow
-
-`Git` `GitHub` `LabEx`
-
----
-
-# 📊 Progress
-
-This repository is intentionally **a work in progress**.
-
-As I learn something new, I aim to:
-
-```text
-Learn
-  ↓
-Practice
-  ↓
-Understand
-  ↓
-Document
-  ↓
-Publish
-  ↓
-Improve
-```
-
-The repository will evolve alongside my skills.
-
----
-
-# 🚀 What's Next?
-
-My long-term goal is to develop strong technical foundations across:
-
-**Networking → Systems → Security → Detection → Automation**
-
-I'm currently focusing on building the fundamentals properly before moving deeper into offensive and defensive security.
-
----
+Each module/lab folder contains a short README for context, plus the actual activity writeups, incident reports, or lab documentation produced from that section.
 
 ## 🧭 Why I'm Documenting This
 
-I'm not documenting this journey to prove that I already know everything.
-
-I'm documenting it to show **progress**.
-
-Every folder, lab, investigation, mistake, and lesson represents another step toward becoming a better security professional.
+I'm not documenting this to show I already know everything — I'm documenting it to show progress. Every module, lab, and writeup is a step toward becoming a better security professional, and this repo grows honestly alongside my actual skills, not ahead of them.
 
 > **The journey is part of the portfolio.**
-
----
-
-### 🩵 The Blueprint
-
-**Build. Protect. Empower.**
 
 *Still learning. Still building. Still becoming.*
